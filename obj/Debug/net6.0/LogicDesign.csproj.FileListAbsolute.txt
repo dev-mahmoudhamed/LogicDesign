@@ -1,0 +1,15 @@
+E:\Code\LogicDesign\bin\Debug\net6.0\LogicDesign.exe
+E:\Code\LogicDesign\bin\Debug\net6.0\LogicDesign.deps.json
+E:\Code\LogicDesign\bin\Debug\net6.0\LogicDesign.runtimeconfig.json
+E:\Code\LogicDesign\bin\Debug\net6.0\LogicDesign.dll
+E:\Code\LogicDesign\bin\Debug\net6.0\LogicDesign.pdb
+E:\Code\LogicDesign\obj\Debug\net6.0\LogicDesign.csproj.AssemblyReference.cache
+E:\Code\LogicDesign\obj\Debug\net6.0\LogicDesign.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\LogicDesign\obj\Debug\net6.0\LogicDesign.AssemblyInfoInputs.cache
+E:\Code\LogicDesign\obj\Debug\net6.0\LogicDesign.AssemblyInfo.cs
+E:\Code\LogicDesign\obj\Debug\net6.0\LogicDesign.csproj.CoreCompileInputs.cache
+E:\Code\LogicDesign\obj\Debug\net6.0\LogicDesign.dll
+E:\Code\LogicDesign\obj\Debug\net6.0\refint\LogicDesign.dll
+E:\Code\LogicDesign\obj\Debug\net6.0\LogicDesign.pdb
+E:\Code\LogicDesign\obj\Debug\net6.0\LogicDesign.genruntimeconfig.cache
+E:\Code\LogicDesign\obj\Debug\net6.0\ref\LogicDesign.dll
