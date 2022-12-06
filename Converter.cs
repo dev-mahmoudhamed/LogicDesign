@@ -4,7 +4,9 @@ class Converter
     {
         Binary = 2,
         Octal = 8,
+        Decimal = 10,
         Hexadecimal = 16
+
     }
     public static int ConvertFrom(string input, BaseNumber baseNumber)
     {
@@ -41,7 +43,15 @@ class Converter
             result += reminder.ToString();
             input /= (int)baseNumber;
         }
-        return Reverse(result);
+        if ((int)baseNumber is 16)
+        {
+            return "0x" + Reverse(result);
+
+        }
+        else
+        {
+            return Reverse(result);
+        }
     }
 
     public static string Reverse(string s)
